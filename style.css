@@ -7,7 +7,7 @@ body {
   margin: 0; /* Quita los márgenes por defecto */
   display: flex; /* Activa flexbox */
   justify-content: left; /* Centra el contenido horizontalmente */
-  align-items: center; /* Centra el contenido verticalmente */
+  align-items: left; /* Centra el contenido verticalmente */
 }
 
 .container {
@@ -43,4 +43,5 @@ button {
 button:hover {
   background: #e68900; /* Color más oscuro al pasar el mouse */
 }
+
 
